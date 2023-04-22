@@ -1,5 +1,5 @@
 # university-management-system-basic
-- Java
+Java
 - PostgreSQL
 - Jdbc
 - Jsp-servlet
